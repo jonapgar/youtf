@@ -1,0 +1,17 @@
+{
+  "name": "youtf",
+  "version": "1.0.0",
+  "description": "you in utf",
+  "main": "youtf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "commander": "^2.9.0",
+    "node-bitmap": "git+https://github.com/jonapgar/node-bitmap.git#master",
+    "watch": "^0.19.2"
+  }
+}
